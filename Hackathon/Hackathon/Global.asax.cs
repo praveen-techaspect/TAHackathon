@@ -11,6 +11,7 @@ namespace Hackathon
     {
         protected void Application_Start()
         {
+            //Test comment
             //AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }
